@@ -1,0 +1,5 @@
+[
+    { "nombre": "Remera", "precio": 25000, "stock": 10 },
+    { "nombre": "Buzo", "precio": 45000, "stock": 5 },
+    { "nombre": "Pantalon", "precio": 60000, "stock": 8 }
+  ]  
